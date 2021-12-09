@@ -18,8 +18,11 @@ xxx
 ## Usage
 ### UUID
 在CS生成C版本的shellcode后填充到`shellcode_2_uuid.py`中:
+
 ![](https://md.byr.moe/uploads/upload_2b7c111c97ba77d8a854fd9e93c9b49f.png)
+
 运行后得到转化后的UUID,全部填充到对应的go文件中:
+
 ![](https://md.byr.moe/uploads/upload_c548c00ef9e7f27e8139f82adc7306ab.png)
 
 编译得到对应的可执行文件即可:
@@ -34,18 +37,23 @@ go build uuid_2_bin.go
 
 ### MAC
 在CS生成C版本的shellcode后填充到`shellcode_2_mac.py`中运行后会生成`mac_shell.txt`
+
 ![](https://md.byr.moe/uploads/upload_88e45ae35f6712a706f9e9ddeb3bfaba.png)
 
 将其中的MAC地址填充到对应的go文件中:
+
 ![](https://md.byr.moe/uploads/upload_8c1af479b4685f5187cc13dc049db758.png)
 
+
 编译得到对应的可执行文件即可:
+
 ```golo
 go build mac_2_bin.go
 ```
 
 **免杀效果**
 ![](https://md.byr.moe/uploads/upload_dfeb1e2b0716acb0cecbe57a134e2ea7.png)
+
 
 
 ![](https://md.byr.moe/uploads/upload_8a7f3abaaf6763ced0d9456bae79a3b4.png)
