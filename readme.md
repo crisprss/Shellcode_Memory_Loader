@@ -52,11 +52,11 @@ go build mac_2_bin.go
 ```
 
 **免杀效果**
-![](https://md.byr.moe/uploads/upload_dfeb1e2b0716acb0cecbe57a134e2ea7.png)
+![](https://github.com/crisprss/Shellcode_Memory_Loader/blob/master/image1.png)
 
 
 
-![](https://md.byr.moe/uploads/upload_8a7f3abaaf6763ced0d9456bae79a3b4.png)
+![](https://github.com/crisprss/Shellcode_Memory_Loader/blob/master/image2.png)
 
 ### IPv4
 使用和MAC内存加载器一致,参考MAC加载器使用方式
