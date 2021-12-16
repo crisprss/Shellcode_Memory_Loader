@@ -2,7 +2,7 @@
 
 ## About 
 相关资料和原理可以参考:
-xxx
+[https://www.crisprx.top/archives/515](https://)
 
 ## Note
 **注意**
